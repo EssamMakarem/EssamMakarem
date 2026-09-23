@@ -61,7 +61,7 @@ End-to-end machine learning classification project for predicting telecom custom
 - Baseline model comparison
 - Critical model analysis
 
-➡️ [View Project](ضع هنا لينك Repository بتاع Customer Churn)
+➡️ [View Project](https://github.com/EssamMakarem/Customer-Churn-Prediction)
 
 ---
 
