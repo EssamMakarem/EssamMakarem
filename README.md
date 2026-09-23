@@ -77,7 +77,7 @@ Machine learning project analyzing long-term Mercedes-Benz stock data using time
 - Next-day price, return, and direction evaluation
 - Critical analysis of misleading high R² scores
 
-➡️ [View Project](ضع هنا لينك Repository بتاع Mercedes-Benz)
+➡️ [View Project](https://github.com/EssamMakarem/Mercedes-Benz-Stock-Analysis)
 
 ---
 
