@@ -78,6 +78,22 @@ Machine learning project analyzing long-term Mercedes-Benz stock data using time
 - Critical analysis of misleading high R² scores
 
 ➡️ [View Project](https://github.com/EssamMakarem/Mercedes-Benz-Stock-Analysis)
+---
+
+### Gym Management Database
+
+Relational SQL database project designed to manage gym members, trainers, classes, memberships, subscriptions, billing, payments, and class enrollments.
+
+**Highlights:**
+- 9 relational tables
+- Primary & Foreign Keys
+- Many-to-Many relationships
+- DDL, DML, and DQL
+- SQL JOIN queries
+- Filtering and aggregation
+- ERD and structured database design
+
+➡️ [View Project](https://github.com/EssamMakarem/Gym-Management-Database)
 
 ---
 
