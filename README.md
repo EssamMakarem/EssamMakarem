@@ -47,7 +47,7 @@ I'm currently developing my skills through academic projects and the **DEPI Micr
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
 ### Customer Churn Prediction
 
@@ -61,7 +61,23 @@ End-to-end machine learning classification project for predicting telecom custom
 - Baseline model comparison
 - Critical model analysis
 
-➡️ [View Project](https://github.com/EssamMakarem/Customer-Churn-Prediction)
+➡️ [View Project](ضع هنا لينك Repository بتاع Customer Churn)
+
+---
+
+### Mercedes-Benz Stock Analysis
+
+Machine learning project analyzing long-term Mercedes-Benz stock data using time-series-aware feature engineering, chronological validation, and regression models.
+
+**Highlights:**
+- Historical stock data from 1996–2026
+- Leakage-safe chronological train/test split
+- Linear Regression & Random Forest
+- Naive baseline comparison
+- Next-day price, return, and direction evaluation
+- Critical analysis of misleading high R² scores
+
+➡️ [View Project](ضع هنا لينك Repository بتاع Mercedes-Benz)
 
 ---
 
